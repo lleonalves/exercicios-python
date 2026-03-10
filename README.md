@@ -46,7 +46,7 @@ Os exercícios fazem parte da minha prática durante a graduação em Engenharia
 - Exercício 28
 - Exercício 29
 - Exercício 30
-- Exercício 31
+- Exercício Teste
 
 ---
 
